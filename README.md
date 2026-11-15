@@ -28,7 +28,10 @@ I'm an Army Cyber Network Defender moving from security operations into governan
 Splunk (SPL detection searches), Security Onion, Wireshark, network traffic analysis, Windows security event monitoring
 
 **GRC and Frameworks**
-CMMC Level 2, NIST SP 800-171, NIST SP 800-53 / 53B, RMF (SP 800-37), FIPS 199 / 200, SSP and POA&M development, DoD 8140, NISP / 32 CFR Part 117, Zero Trust (SP 800-207, CISA ZTMM)
+CMMC Level 2, NIST SP 800-171, NIST SP 800-53 / 53B, RMF (SP 800-37), FIPS 199 / 200, risk assessment (SP 800-30), control assessment and evidence collection (SP 800-53A), SSP development, security policy writing, POA&M management, DoD 8140, NISP / 32 CFR Part 117, Zero Trust (SP 800-207, CISA ZTMM)
+
+**Reporting and Communication**
+Excel (lookup formulas, data validation, conditional formatting), risk registers and trackers, audit workpapers, executive summaries, leadership briefings
 
 **Automation and Development**
 UiPath, Python, Java, pytest, GitHub Actions, OSCAL data
