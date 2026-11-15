@@ -17,6 +17,10 @@ I'm an Army Cyber Network Defender moving from security operations into governan
 | [dod-8140-workforce-tracker](https://github.com/CauseSpark/dod-8140-workforce-tracker) | Tracks a cyber workforce against DoDM 8140.03, flagging expiring certifications and DCWF work-role qualification gaps. |
 | [nisp-security-program-toolkit](https://github.com/CauseSpark/nisp-security-program-toolkit) | NISP program documents and SOP outlines under 32 CFR Part 117, plus a self-inspection checklist and report generator. |
 | [zero-trust-reference](https://github.com/CauseSpark/zero-trust-reference) | Zero trust reference kit that crosswalks NIST SP 800-207, CISA ZTMM 2.0, and DoD pillars, with a scored maturity assessment and an 800-53 mapping. |
+| [risk-assessment-800-30](https://github.com/CauseSpark/risk-assessment-800-30) | NIST SP 800-30 risk assessment of a fictional HR portal, with a tested scoring model, a formula-driven Excel risk register and heat map, and a written report. |
+| [control-audit-evidence-kit](https://github.com/CauseSpark/control-audit-evidence-kit) | SP 800-53A control assessment with an evidence request list, hashed evidence, reproducible samples, workpapers, and automated tests that reproduce each finding. |
+| [policy-and-poam-program](https://github.com/CauseSpark/policy-and-poam-program) | Eight control-mapped security policies with a linter that catches drift, plus a POA&M tracker in Python and Excel that enforces due dates and writes the monthly report. |
+| [security-risk-briefings](https://github.com/CauseSpark/security-risk-briefings) | Executive summary, leadership slide deck, and plain-language explainers that turn the assessment results into decisions, with tests that check every number and reading level. |
 
 ## Skills
 
